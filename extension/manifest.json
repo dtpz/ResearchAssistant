@@ -21,10 +21,11 @@
   "options_page": "src/options_custom/index.html",
   "permissions": [
     "chrome://favicon/",
-    "clipboardRead",
-    "tabs",
     "http://*/*",
     "https://*/*",
-    "activeTab"
+    "clipboardRead",
+    "tabs",
+    "activeTab",
+    "contextMenus"
   ]
 }
